@@ -1,6 +1,8 @@
 # practical_application_5_1
 UC Berkeley Assignment
 
+https://github.com/NaglaElb/practical_application_5_1.git
+
 # Overview
 This notebook contains an analysis of data from UCI Machine Learning Repository that was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept the coupon if they are the driver.
 The objective of the code is to identify characteristics of those who accepted the coupon versus those who did not.
